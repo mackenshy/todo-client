@@ -1,0 +1,8 @@
+node_midules
+build
+*.md
+*.json
+src/locales/**/*
+src/**/assets/**/*
+**/*.png
+**/*.jpe?g
